@@ -1,0 +1,5 @@
+Source: https://shopee.vn/search?keyword=tr%C3%A0%20t%C3%BAi%20l%E1%BB%8Dc (fetched 1 June 2026)
+
+Result: Shopee returned 'Page Unavailable' when fetched unauthenticated; content requires login or JS rendering and may block automated fetches.
+
+Recommendation: Use Firecrawl/Tavily or a headless browser session to render and scrape Shopee results, or use their public APIs if available. Alternatively, use Lazada/Tiki/supermarket sites for pricing if Shopee access is blocked.

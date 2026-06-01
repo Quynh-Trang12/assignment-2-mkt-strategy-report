@@ -1,0 +1,5 @@
+Source: https://www.coopmart.com.vn/search?keyword=tr%C3%A0%20t%C3%BAi%20l%E1%BB%8Dc (fetched 1 June 2026)
+
+Result: Site content not extractable via simple GET. The Co.opmart site may require JS rendering or uses bot protections.
+
+Recommendation: Use Firecrawl/Tavily or manual browser queries for Co.opmart. Alternatively, use Google site search (site:coopmart.com.vn "trà túi lọc") to locate static product pages.

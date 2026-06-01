@@ -1,0 +1,5 @@
+Source: https://winmart.vn/search?keyword=tr%C3%A0+t%C3%BAi+l%E1%BB%8Dc (fetched 1 June 2026)
+
+Result: Request redirected to tracking/ads URL; page did not return usable search results via simple GET.
+
+Recommendation: WinMart site uses tracking/redirects and likely requires a browser session for rendering; use Firecrawl/Tavily or a headless browser to capture search results and product pages. Alternatively, check their public API or use Google site:winmart.vn "trà túi lọc" for static pages.

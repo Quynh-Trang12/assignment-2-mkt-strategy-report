@@ -1,0 +1,10 @@
+Source: https://www.lazada.vn/catalog/?q=tr%C3%A0%20t%C3%BAi%20l%E1%BB%8Dc (fetched 1 June 2026)
+
+Summary findings:
+- Search returned ~3,543 products for "trà túi lọc".
+- Sample price points observed on first page: 40,000 VND, 49,000 VND, 55,000 VND, 82,000 VND, 90,000 VND, 99,000 VND, 109,900 VND, 180,000 VND, 298,000 VND.
+- Common pack sizes: 30-100 bags, some listings 20/30/40/50/72/100 counts. Pricing varies by pack size and product type (herbal teas, specialty, mass-market black tea).
+- Observations: mass-market herbal and functional teas range roughly 40k-120k VND per pack; larger counts or specialty blends (100+ bags) range 180k-298k VND.
+- Implication for positioning: a mid-price black tea (20-40 count) could retail in the ~40k-120k VND band depending on pack size and brand; exact competitor (Lipton/Twinings) shelf pricing needs checking on specific brand pages.
+
+Notes: This is a single-site scrape; further cross-check with Shopee/Tiki/supermarket (VinMart/Co.op) required for robust price ladder. Some marketplaces block unauthenticated scraping (Shopee/Alibaba).

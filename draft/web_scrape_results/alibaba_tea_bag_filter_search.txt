@@ -1,0 +1,5 @@
+Source: https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&SearchText=tea+bag+filter+PLA (fetched 1 June 2026)
+
+Result: Alibaba returned a traffic/captcha block (slide-to-verify). Automated fetch blocked.
+
+Recommendation: Use B2B directories through a browser session or use supplier searches via Google/GlobalSources, or request supplier lists from packaging trade associations. Contacting local packaging converters in Vietnam may be required for verified supplier leads.

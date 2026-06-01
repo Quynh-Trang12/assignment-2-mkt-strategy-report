@@ -1,0 +1,8 @@
+Sites attempted: thuvienphapluat.vn, vbpl.vn, monre.gov.vn (fetched 1 June 2026)
+
+Results:
+- thuvienphapluat.vn search for 'compostable packaging' returned no results for the English term.
+- vbpl.vn returned 404 for the attempted path; site may require different query parameters or use of site's search UI.
+- monre.gov.vn fetch returned no extractable content via simple GET.
+
+Recommendation: Perform targeted manual web search (Google) for Vietnamese terms 'bao bì phân hủy sinh học', 'tuyên bố phân hủy', 'quy định nhãn mác bao bì', or use the official government legal portal search interface interactively. Alternatively, consult local legal counsel or industry association (Vietnam Packaging Association) for exact labeling guidance.

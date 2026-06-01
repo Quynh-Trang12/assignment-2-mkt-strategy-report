@@ -1,0 +1,5 @@
+Source: https://www.twinings.co.uk/ (fetched 1 June 2026)
+
+Result: Twinings site redirected to an embedded shop authentication flow; product pages require JS and storefront rendering. No Vietnam-specific retail prices found on this global site without navigating country selector.
+
+Recommendation: Use e-commerce retailers in Vietnam (Lazada, Tiki, Shopee, WinMart, BachHoaXanh) for local pricing. For supplier/manufacturer details, check B2B directories or packaging suppliers directly.

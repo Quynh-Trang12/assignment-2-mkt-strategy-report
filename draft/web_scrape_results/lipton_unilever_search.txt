@@ -1,0 +1,5 @@
+Source: https://www.unilever.vn/brands/ (searched for Lipton/brand pages) (fetched 1 June 2026)
+
+Result: Site content not extractable via simple GET (likely uses dynamic loading or bot protections). Lipton Vietnam product or brand retail prices not shown on Unilever corporate page; official price data typically appears on retailer pages or e-commerce partners.
+
+Recommendation: Check licensed retailers (Lazada, Tiki, WinMart, BachHoaXanh) or brand-authorised distributors for local SRP. Use headless browser scraping for dynamic brand shop pages if necessary.
